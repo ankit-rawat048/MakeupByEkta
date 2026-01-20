@@ -15,8 +15,8 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li class="divider">|</li>
-            <!-- <li><a href="#">About Me</a></li>
-            <li class="divider">|</li> -->
+            <li><a href="gallery.php">Gallery</a></li>
+            <li class="divider">|</li>
             <li><a href="contactus.php">Contact Me</a></li>
         </ul>
     </nav>
